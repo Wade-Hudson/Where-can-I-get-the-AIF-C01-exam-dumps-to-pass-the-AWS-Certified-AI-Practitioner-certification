@@ -39,8 +39,6 @@
 <p>Several online platforms provide Amazon AIF-C01 dumps, but it’s essential to choose reputable and trustworthy sources. Below are some popular options:</p>
     <ul>
         <li><a href="https://www.itexamstest.com/amazon/aif-c01-dumps.html">ITExamstest</a>: A widely respected provider of AWS exam dumps, ITExamstest offers high-quality Amazon AIF-C01 Exam Dumps designed to reflect the latest version of the exam. With detailed answers and explanations, their dumps are an excellent tool for reinforcing concepts and getting a feel for the exam format.</li>
-        <li><a href="https://www.dumpsspot.com/">DumpsSpot</a>: Known for its up-to-date AWS dumps, DumpsSpot offers comprehensive dumps for the AIF-C01 certification exam, including real exam simulations and practice questions.</li>
-        <li><a href="https://www.passexam4sure.com/">Passexam4sure</a>: Another platform that provides AIF-C01 dumps, Passexam4sure offers a wide range of practice exams, detailed question explanations, and customizable test options for targeted studying.</li>
     </ul>
 
 <h2>3. Additional Preparation Resources</h2>
